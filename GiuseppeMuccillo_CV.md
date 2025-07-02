@@ -25,7 +25,7 @@ Motivated and detail-oriented **Junior Web Developer** seeking an opportunity to
 ## Personal Projects
 
 ### Sun Cycle Animation  
-**Technologies:** SCSS, HTML, JavaScript, Webpack  
+**Technologies:** SCSS, HTML, JavaScript, Vite.js, Webpack  
 **Description:** A creative exploration of complex ambient animations including clouds, sun, moon, and shooting stars, implemented using custom SCSS mixins for modular and scalable animation control.  
 **GitHub:** [github.com/GiS91/gmuccillo-projects](https://github.com/GiS91/gmuccillo-projects)
 

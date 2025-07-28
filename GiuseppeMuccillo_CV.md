@@ -2,7 +2,7 @@
 
 📍 Chiauci (IS), Italy  
 ✉️ giuseppemuccillo82@gmail.com  
-🔗 [GitHub](https://github.com/GiS91/gmuccillo-projects)
+🔗 [GitHub](https://github.com/Giuseppe-1982)
 
 ---
 
@@ -24,10 +24,10 @@ Motivated and detail-oriented **Junior Web Developer** seeking an opportunity to
 
 ## Personal Projects
 
-### Sun Cycle Animation  
+### Solar Cycle Animation  
 **Technologies:** SCSS, HTML, JavaScript, Vite.js, Webpack  
 **Description:** A creative exploration of complex ambient animations including clouds, sun, moon, and shooting stars, implemented using custom SCSS mixins for modular and scalable animation control.  
-**GitHub:** [github.com/GiS91/gmuccillo-projects](https://github.com/GiS91/gmuccillo-projects)
+**GitHub:** [github.com/Giuseppe-1982/gmuccillo-projects](https://github.com/Giuseppe-1982/gmuccillo-projects)
 
 ---
 

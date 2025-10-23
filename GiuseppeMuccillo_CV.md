@@ -14,20 +14,24 @@ Motivated and detail-oriented **Junior Web Developer** seeking an opportunity to
 
 ## Technical Skills
 
-- HTML, CSS, JavaScript  
-- Sass/SCSS, **Bootstrap**  
-- Node.js, Vite.js, Webpack  
-- Visual Studio Code  
-- Git & GitHub
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Sass/SCSS, Bootstrap  
+- **Build Tools:** Node.js, npm, Vite.js, Webpack  
+- **Version Control:** Git, GitHub  
+- **Development Environment:** Visual Studio Code
 
 ---
 
 ## Personal Projects
 
-### Solar Cycle Animation  
-**Technologies:** SCSS, HTML, JavaScript, Vite.js, Webpack  
-**Description:** A creative exploration of complex ambient animations including clouds, sun, moon, and shooting stars, implemented using custom SCSS mixins for modular and scalable animation control.  
+### Solar Cycle Animation (Vite version)
+**Technologies:** HTML, CSS, SCSS, JavaScript, Node.js, npm, Vite.js  
+A creative exploration of complex ambient animations including clouds, sun, moon, and shooting stars, implemented using custom SCSS mixins for modular and scalable animation control.  
 **GitHub:** [github.com/Giuseppe-1982/sun-animation-base](https://github.com/Giuseppe-1982/sun-animation-base)
+
+### Solar Cycle Animation (Webpack version)
+**Technologies:** HTML, CSS, SCSS, JavaScript, Node.js, npm, Webpack  
+A refactored version of the Solar Cycle Animation project, rebuilt with Webpack for custom configuration and build optimization.  
+**GitHub:** [github.com/Giuseppe-1982/sun-animation-webpack](https://github.com/Giuseppe-1982/sun-animation-webpack)
 
 ---
 
